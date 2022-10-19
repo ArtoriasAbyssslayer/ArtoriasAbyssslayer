@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harry Filis
 - 👀 I’m interested in Computer Vision,Robotics,Machine Learning,Multimedia Understanding, Deep Learning,Linux,Video Games,
-- 🌱 I’m currently learning Self Supervised Learning-GAN-Autoencoders,UAV Cinematography,Web-Dev
+- 🌱 I’m currently learning Self Supervised Learning-GAN-Autoencoders,UAV Cinematography,Web-Dev,Game-Dev,Graphics-Engines
 - 📫 How to reach me ...![Linkedin](https://i.stack.imgur.com/gVE0j.png)[Linkedin](https://www.linkedin.com/in/harry-filis/)
   
   
