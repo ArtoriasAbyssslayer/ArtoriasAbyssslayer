@@ -2,8 +2,9 @@
 - 👀 I’m interested in Computer Vision,Robotics,Machine Learning,Multimedia Understanding, Deep Learning,Linux,Video Games,
 - 🌱 I’m currently learning Self Supervised Learning-GAN-Autoencoders,UAV Cinematography,Web-Dev
 - 📫 How to reach me ...![Linkedin](https://i.stack.imgur.com/gVE0j.png)([https://www.linkedin.com/](https://www.linkedin.com/in/harry-filis/)) 
-
-                         ![e-mail](harry.filis@yahoo.gr)
+  
+  
+  [e-mail](harry.filis@yahoo.gr)
                       
                         
 
