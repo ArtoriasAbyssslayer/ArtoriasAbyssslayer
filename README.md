@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my Thesis on **3D surface Reconstruction from Implicit Representations with emphasis on Encoding HF content**
 
-- 🌱 I’m currently learning **CI/CD,DevOPS,Deep Learning Technics,Computer Vision,Game Dev,Web Dev**
+- 🌱 I’m currently learning **CI/CD,DevOPS,Deep Learning,Computer Vision,Game Dev,Web Dev**
 
 - 👨‍💻 All of my projects are available at [GitHub-repositories](https://github.com/ArtoriasAbyssslayer?tab=repositories)
 
