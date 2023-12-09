@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harry Filis</h1>
-<h3 align="center">An u-grad Electrical and Computer Engineer passionate about Graphics Engines and DL</h3>
+<h3 align="center">An Electrical and Computer Engineer passionate about Graphics Engines and DL, Computer Science</h3>
 
-- 🔭 I’m currently working on my Thesis on **3D surface Reconstruction from Implicit Representations with emphasis on Encoding HF content**
+- 🔭 I completed my Thesis on **3D surface Reconstruction from Implicit Representations with emphasis on Encoding HF content**
 
 - 🌱 I’m currently learning **Graphics Engines,CI/CD,DevOPS,Deep Learning,Computer Vision,Game Dev,Web Dev**
 
