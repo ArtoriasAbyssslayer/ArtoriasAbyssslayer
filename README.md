@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [Brief-Resume](https://drive.google.com/file/d/1F9KjF5pXCmQR3FYygCEFp_2Ksv-qjbVj/view?usp=sharing)
 
-- ⚡ Fun fact **I am stubborn and wayward sometimes...**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
