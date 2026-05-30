@@ -6,7 +6,7 @@
 - 🔭 Thesis: **3D Surface Reconstruction from Implicit Representations (HF encoding focus)**  
 - 🌱 Currently learning: **Graphics Engines, CI/CD, DevOps, Deep Learning, Computer Vision, Game Dev, Web Dev**  
 - 👨‍💻 Projects: [GitHub Repositories](https://github.com/ArtoriasAbyssslayer?tab=repositories)  
-- 📫 Contact: **harry.filis@yahoo.gr**  
+- 📫 Contact: **harry.filis@protonmail.com**  
 - 📄 Resume: [View here](https://drive.google.com/file/d/1Tplg-NJk6cS2T46nsOP5mZMPy2Ug2MJk/view?usp=sharing)  
 
 ---
